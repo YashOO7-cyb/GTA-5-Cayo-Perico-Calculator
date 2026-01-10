@@ -670,7 +670,7 @@ return (
                 onClick={copyLinkWithSettings}
                 className="flex-1 py-2 bg-gray-800 hover:bg-gray-700 rounded"
               >
-                Copy link
+                Copy text
               </button>
             </div>
 
