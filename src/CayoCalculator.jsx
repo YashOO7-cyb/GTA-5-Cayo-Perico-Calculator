@@ -356,7 +356,7 @@ Generated: ${new Date().toLocaleString()}
 ═══════════════════════════════════════════
 <> Yash Chandankhede
 © 2026 Yash Chandankhede. All rights reserved.
-✉ Email: yashchandankhede@gmail.com
+✉ Email: yash.chandankhede207@gmail.com
 ═══════════════════════════════════════════
 
 `;
